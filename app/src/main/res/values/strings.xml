@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Movie List</string>
+
+    <string-array name="data_title">
+        <item>A Star is born</item>
+        <item>Aquaman</item>
+        <item>Avenger</item>
+        <item>Birdbox</item>
+        <item>Bohemian</item>
+    </string-array>
+
+    <string-array name="data_release_date">
+        <item>2019–02-02</item>
+        <item>2019–04-04</item>
+        <item>2019–05-05</item>
+        <item>2019–03-03</item>
+        <item>2019–01-01</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Horror</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>3.6</item>
+        <item>4.2</item>
+        <item>2.4</item>
+        <item>5.5</item>
+        <item>1.5</item>
+    </string-array>
+
+    <array name="data_image">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+
+</resources>
